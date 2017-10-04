@@ -11,4 +11,4 @@ _shader contains the script for circuit shader
 
 _scripts contains the program script for the tester object. 
 
-<a href="https://imgflip.com/gif/1x0eiu"><img src="https://i.imgflip.com/1x0eiu.gif" title="made at imgflip.com"/></a>
+![alt text](https://raw.githubusercontent.com/AlexisChen/CircuitShader/master/circuit_test.gif)
